@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Shinon Ecchi
+Comment=Basado en Windows 7
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Shinon Ecchi
+MetacityTheme=Shinon Ecchi
+IconTheme=Shinon Ecchi
+CursorTheme=Shinon Ecchi
+ButtonLayout=menu:minimize,maximize,close
